@@ -1,0 +1,25 @@
+.div1 {
+    background-image:  url(mj/header-bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.h1{
+    margin: 70px 0px;
+font-size: 100px;
+}
+.w2{
+    margin-top: 260px;
+}
+.rer{
+color: white;
+padding: 2px;
+background-color: #ffc800;
+border-radius: 20px;
+}
+.wss{
+    width: 70%;
+}
+.hh{
+    height: 500px;
+}
