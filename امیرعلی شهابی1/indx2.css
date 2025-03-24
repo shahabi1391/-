@@ -1,0 +1,8 @@
+.di{
+    background-image: url(im/blue-pattern.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 120em;
+}
