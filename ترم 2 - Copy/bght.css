@@ -1,0 +1,28 @@
+.div1 {
+    background-image: linear-gradient(rgba(9, 9, 9, 0.591), rgba(9, 9, 9, 0.378)), url(mj/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bb {
+    margin-bottom: 260px;
+
+}
+
+.div2 {}
+
+.p {
+    padding: 0px 250px;
+}
+
+.gg {
+    margin-top: 195px
+}
+.hgf{
+    margin-top: 180px;
+    
+}
+.fgh{
+    margin-top: 190px;
+}
